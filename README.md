@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/llinyh7nku19kha8?svg=true)](https://ci.appveyor.com/project/SlavaFors/containers-set)
