@@ -49,6 +49,5 @@ class Character {
   }
 }
 
-export {
-  Character as default, TYPES_CHARACTER, ERRORS,
-};
+export default Character;
+export { TYPES_CHARACTER, ERRORS };

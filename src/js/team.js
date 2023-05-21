@@ -31,4 +31,5 @@ class Team {
   }
 }
 
-export { Team as default, ERROR_CHARACTER_EXISTS };
+export default Team;
+export { ERROR_CHARACTER_EXISTS };
