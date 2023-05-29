@@ -8,13 +8,13 @@ class Team {
   }
 
   add(character) {
-    if (character instanceof Character) {
+    //if (character instanceof Character) {
       if (this.members.has(character)) {
         throw new Error(ERROR_CHARACTER_EXISTS);
       } else {
         this.members.add(character);
       }
-    }
+    //}
   }
 
   addAll(...characters) {
